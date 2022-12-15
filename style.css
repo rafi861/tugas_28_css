@@ -1,0 +1,17 @@
+*{
+  margin: 0 auto;
+}
+body{
+  background-color:  #333333;
+
+}
+form{
+  color: white;
+  position: relative;
+  width: 550px;
+
+}
+img{
+position: relative;
+left: 570px;
+}
